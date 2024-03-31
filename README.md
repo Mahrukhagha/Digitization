@@ -1,2 +1,2 @@
 # Digitization
-Commercial and Residential Buildings of Kolkata 
+Commercial and Residential Buildings of Kolkata
